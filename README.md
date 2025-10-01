@@ -1,0 +1,3 @@
+# ideal-lamp
+
+Initial commit.
