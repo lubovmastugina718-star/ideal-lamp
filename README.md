@@ -5,3 +5,7 @@ Initial commit.
 ## Update
 
 Add feature flag
+
+## Update
+
+Fix typo in README
