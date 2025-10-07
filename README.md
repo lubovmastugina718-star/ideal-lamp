@@ -11,3 +11,7 @@ Add feature flag
 Fix typo in README
 
 # Fix async/await issue
+
+## Update
+
+Fix data parsing
