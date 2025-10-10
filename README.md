@@ -15,3 +15,7 @@ Fix typo in README
 ## Update
 
 Fix data parsing
+
+## Update
+
+Fix memory leak
