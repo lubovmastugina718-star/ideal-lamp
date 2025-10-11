@@ -19,3 +19,5 @@ Fix data parsing
 ## Update
 
 Fix memory leak
+
+# Fix linting errors
