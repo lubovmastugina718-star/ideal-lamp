@@ -1,3 +1,5 @@
 # Fix data parsing
 
 # Update dependencies version
+
+# Fix memory allocation
