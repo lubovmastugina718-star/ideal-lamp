@@ -23,3 +23,7 @@ Fix memory leak
 # Fix linting errors
 
 # Fix data parsing
+
+## Update
+
+Improve error handling
