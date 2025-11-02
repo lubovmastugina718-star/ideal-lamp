@@ -27,3 +27,7 @@ Fix memory leak
 ## Update
 
 Improve error handling
+
+## Update
+
+Update API documentation
