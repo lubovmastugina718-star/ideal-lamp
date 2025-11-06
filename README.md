@@ -31,3 +31,7 @@ Improve error handling
 ## Update
 
 Update API documentation
+
+## Update
+
+Refactor code structure
