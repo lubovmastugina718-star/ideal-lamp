@@ -35,3 +35,7 @@ Update API documentation
 ## Update
 
 Refactor code structure
+
+## Update
+
+Update build script
