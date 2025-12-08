@@ -43,3 +43,7 @@ Update build script
 ## Update
 
 Update tests
+
+## Update
+
+Fix async/await issue
