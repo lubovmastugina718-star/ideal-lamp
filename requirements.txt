@@ -7,3 +7,5 @@
 # Add new utility function
 
 # Fix race condition
+
+# Add configuration options
