@@ -47,3 +47,5 @@ Update tests
 ## Update
 
 Fix async/await issue
+
+# Update dependencies version
