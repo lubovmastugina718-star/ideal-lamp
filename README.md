@@ -49,3 +49,7 @@ Update tests
 Fix async/await issue
 
 # Update dependencies version
+
+## Update
+
+Fix data parsing
