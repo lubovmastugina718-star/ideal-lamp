@@ -53,3 +53,7 @@ Fix async/await issue
 ## Update
 
 Fix data parsing
+
+## Update
+
+Improve code readability
