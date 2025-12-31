@@ -57,3 +57,7 @@ Fix data parsing
 ## Update
 
 Improve code readability
+
+## Update
+
+Update API documentation
