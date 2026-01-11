@@ -9,3 +9,5 @@
 # Fix race condition
 
 # Add configuration options
+
+# Fix null pointer
