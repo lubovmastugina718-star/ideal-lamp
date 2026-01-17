@@ -61,3 +61,7 @@ Improve code readability
 ## Update
 
 Update API documentation
+
+## Update
+
+Fix memory leak
