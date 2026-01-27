@@ -3,3 +3,5 @@ const main = () => {
 };
 
 # Update dependencies
+
+# Add error handling
